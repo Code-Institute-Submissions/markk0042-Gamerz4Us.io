@@ -1,0 +1,18 @@
+/*HTML Section*/
+
+html {
+    height: 100%;
+}
+/*Body Section*/
+body{
+    background-image: url("/assets/images/hero-image.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+
+}
