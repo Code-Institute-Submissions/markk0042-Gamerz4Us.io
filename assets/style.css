@@ -122,3 +122,16 @@ display: none;
     }
 
 }
+
+/*Hero Section*/
+
+.hero-image {
+    background:transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 50%;
+    opacity: 0.9;
+    margin-top: 0%;
+}
