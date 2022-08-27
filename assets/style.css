@@ -1,7 +1,7 @@
 /*HTML Section*/
-
 html {
     height: 100%;
+    width: 100%;
 }
 /*Body Section*/
 body{
@@ -12,7 +12,7 @@ body{
     background-size: auto;
     background-position: center;
     background-repeat: no-repeat;
-    width: 100%;
+    width: 95%;
     height: 100%;
 }
 
@@ -26,7 +26,7 @@ body{
 }
 
 
-.nav  .nav-header {
+.nav .nav-header {
     display: inline;
     font-size: 26px;
     color: #fff;
@@ -144,6 +144,26 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 color: #fff;
+}
 
+.main-button{
+    text-decoration: none;
+    border-bottom: none;
+    list-style-type: none;
+    border-radius: 8px;
+    font-size: 16px;
+    color: black;
+    background-color: #fff;
+}
 
+.main-button:hover {
+    background-color:rgb(200, 9, 9); 
+    color: black;
+}
+
+.main-button-link {
+    text-decoration: none;
+    list-style-type: none;
+    border-bottom: none;
+    color: inherit;
 }
