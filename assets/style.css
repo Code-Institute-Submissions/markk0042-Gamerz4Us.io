@@ -12,7 +12,7 @@ body{
     -o-background-size: cover;
     background-size: auto;
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     width: 99%;
     height: 100%;
 }
@@ -203,7 +203,7 @@ color: #fff;
     display: flex;
     justify-content: space-evenly;
     color: #666;
-    font-size: 32px;
+
     transition: 0.3s ease-in;
     max-width: 75%;
     margin: 0px auto;
@@ -211,16 +211,19 @@ color: #fff;
 
 .about-companies .company-logos .fa:hover {
     color: #000;
-    font-size: 36px;
+    font-size: px;
 
     }
 
 .fa-google {
     color: orange;
+    
+
 }
 
 .fa-facebook {
     color: rgb(26, 53, 208);
+    
 }
 
 .fa-spotify {
@@ -277,15 +280,12 @@ color: #fff;
   .footer {
     display: flex;
     flex-flow: row wrap;
-    padding: 20px 20px 20px 20px;
+    padding: 18px 18px 18px 18px;
     color: #000;
     background-color: rgb(248,248,255);
     border-top: 1px solid slategrey;
     width: 100%;
-    border-radius: 8px;
-    
     bottom: 0;
-    height: 300px;
     margin-top: 33%;
 
  
@@ -324,27 +324,13 @@ color: #fff;
     transition: 0.4 ease-in;
     font-size: 18px;
   }
-
   
   .footer address {
     font-style: normal;
     color: #999;
   }
   
-  .footer__btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 36px;
-    max-width: max-content;
-    background-color: rgb(33, 33, 33, 0.07);
-    border-radius: 100px;
-    color: #2f2f2f;
-    line-height: 0;
-    margin: 0.6em 0;
-    font-size: 1rem;
-    padding: 0 1.3em;
-  }
+  
   
   .footer ul {
     list-style: none;
