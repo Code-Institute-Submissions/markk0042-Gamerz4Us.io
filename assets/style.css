@@ -39,6 +39,7 @@ body{
 .nav  .nav-header:hover {
     color:rgb(200, 9, 9);
     transition: 0.4;
+    font-size: 27px;
 }
 
 
@@ -67,6 +68,7 @@ body{
 
 .nav > .nav-links > a:hover {
     color:rgb(200, 9, 9);
+    font-size: 17px;
 }
 
 .nav > #nav-check {
@@ -161,6 +163,7 @@ color: #fff;
 .main-button:hover {
     background-color:rgb(200, 9, 9); 
     color: black;
+    font-size: 17px;
 }
 
 .main-button-link {
@@ -202,7 +205,7 @@ color: #fff;
     display: flex;
     justify-content: space-evenly;
     color: #666;
-    font-size: 2rem;
+    font-size: 32px;
     transition: 0.3s ease-in;
     max-width: 75%;
     margin: 0px auto;
@@ -210,6 +213,7 @@ color: #fff;
 
 .about-companies .company-logos .fa:hover {
     color: #000;
+    font-size: 35px;
 
     }
 
@@ -308,6 +312,7 @@ color: #fff;
   .nav__ul > li > a:hover{
     color:rgb(200, 9, 9); 
     transition: 0.4 ease-in;
+    font-size: 18px;
   }
 
   
