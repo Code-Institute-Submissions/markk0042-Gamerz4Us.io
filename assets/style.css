@@ -1,9 +1,10 @@
-/*HTML Section*/
+/*HTML Section End*/
 html {
     height: 100%;
     width: 100%;
 }
-/*Body Section*/
+/*HTML Section End*/
+/*Body Section Start*/
 body{
     background-image: url("/assets/images/background.jpg");
     -webkit-background-size: cover;
@@ -15,8 +16,8 @@ body{
     width: 99%;
     height: 100%;
 }
-
-/*NavBar Element*/
+/*Body Section End*/
+/*NavBar Element Start*/
 
 .nav {
     height: 50px;
@@ -122,8 +123,9 @@ display: none;
     }
 
 }
+/*NavBar Element End*/
 
-/*Hero Section*/
+/*Hero Section Start*/
 
 .hero-image {
     background:transparent;
@@ -167,8 +169,8 @@ color: #fff;
     border-bottom: none;
     color: inherit;
 }
-
-/*Social Media Links*/
+/*Hero Section End*/
+/*Social Media Links Start*/
 
 .about-companies {
     max-width: 700px;
@@ -254,8 +256,8 @@ color: #fff;
     
     }
 }
-
-/*Footer section*/
+/*Social Media Links End*/
+/*Footer section Start*/
 
 *, *:before, *:after {
     box-sizing: border-box;
@@ -400,3 +402,5 @@ color: #fff;
       flex: 2 0px;
     }
   }
+
+  /*Footer section End*/
