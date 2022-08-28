@@ -172,14 +172,14 @@ color: #fff;
 
 .about-companies {
     max-width: 700px;
-    width: 90%;
+    width: 70%;
     height: 110px;
-    background-color: rgb(235, 231, 231);
+    background-color: rgb(248,248,255);
     padding: 1rem 0.5rem;
     margin: 1rem auto;
-    margin-top: 12%;
+    margin-top: 10%;
     opacity: 0.7;
-    border-radius: 35px;
+    border-radius: 20px;
  
 }
 
@@ -271,6 +271,7 @@ color: #fff;
     border-top: 1px solid slategrey;
     width: 100%;
     border-radius: 8px;
+    opacity: 0.8;
  
   }
   
@@ -284,9 +285,8 @@ color: #fff;
   }
   
   .footer__logo {
-    font-family: 'Pacifico', cursive;
     font-weight: 400;
-    text-transform: lowercase;
+    text-transform: uppercase;
     font-size: 1.5rem;
   }
   
@@ -299,7 +299,15 @@ color: #fff;
   .nav__title {
     font-weight: 400;
     font-size: 15px;
+
   }
+
+
+  .nav__ul > li > a:hover{
+    color:rgb(200, 9, 9); 
+    transition: 0.4 ease-in;
+  }
+
   
   .footer address {
     font-style: normal;
@@ -357,6 +365,7 @@ color: #fff;
     display: flex;
     flex-wrap: wrap;
     color: #999;
+  
   }
     
   .legal__links {
