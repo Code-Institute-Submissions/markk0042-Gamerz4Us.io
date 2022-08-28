@@ -283,6 +283,10 @@ color: #fff;
     border-top: 1px solid slategrey;
     width: 100%;
     border-radius: 8px;
+    
+    bottom: 0;
+    height: 300px;
+    margin-top: 33%;
 
  
   }
