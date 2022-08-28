@@ -182,9 +182,6 @@ margin-top: 20px;
 }
 
 
-
-
-
 /*Contact-Form-Start*/
 
 .contact-main-text{
@@ -264,9 +261,17 @@ margin-top: 20px;
   margin-bottom: 5px;
 }
 
+.contact-form form input:hover {
+  background-color: rgb(249, 173, 41);
+}
+
 .contact-form form textarea{
   padding: 5px 10px;
   outline: none;
+}
+
+.contact-form form textarea:hover {
+  background-color: rgb(249, 173, 41);
 }
 
 .contact-form form input:focus, .contact-form form textarea:focus{
@@ -285,13 +290,8 @@ margin-top: 20px;
 }
 
 .contact-form form button:hover{
-  background-color: rgb(35, 64, 150);
+  background-color:rgb(200, 9, 9); 
 }
-
-
-
-
-
 
 /*Contact-Form-End*/
 
