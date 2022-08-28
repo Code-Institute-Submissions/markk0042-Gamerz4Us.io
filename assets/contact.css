@@ -6,11 +6,10 @@ html {
 /*HTML Section End*/
 /*Body Section Start*/
 body{
-    background-image: url("/assets/images/background.jpg");
+    background-image: url("/assets/images/pexels-lalesh-aldarwish-194511.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: auto;
     background-position: center;
     background-repeat: repeat;
     width: 99%;
@@ -175,7 +174,12 @@ color: #fff;
   color: inherit;
 }
 /*Hero Section End*/
+/*Above Form Section*/
 
+.contact-us-heading-form{
+color: #fff;
+margin-top: 20px;
+}
 
 
 
