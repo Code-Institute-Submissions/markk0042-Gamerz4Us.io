@@ -88,6 +88,7 @@ nav .icon-burger .line {
 	border-radius: 3px;
 	transition: all .3s ease-in-out;
 }
+/*Navbar screen resolutions */
 @media screen and (max-width: 768px) {
 	nav .logo {
 		float: none;
@@ -132,6 +133,7 @@ nav .icon-burger .line {
 	}
 	
 }
+/*NavBar screen resolutions*/
 /*NavBar Element End*/
 
 /*Hero Section Start*/
@@ -288,6 +290,7 @@ color: #fff;
     color: #2f2f2f;
   }
   
+  /*Footer screen resolutions*/
   @media screen and (min-width: 24.375em) {
     .legal .legal__links {
       margin-left: auto;
@@ -311,8 +314,8 @@ color: #fff;
       flex: 2 0px;
     }
   }
-
-  /*Footer section End*/
+/*Footer screen resolutions  Ends*/
+ /*Footer section End*/
 
 
 /*Social Media Links Start*/
@@ -320,27 +323,49 @@ color: #fff;
   color: orange;
 }
 
+.fa-google:hover{
+  color: #000;
+}
+
 .fa-facebook {
   color: rgb(26, 53, 208);
 }
 
+.fa-facebook:hover{
+  color: #000;
+}
+
 .fa-spotify {
   color: green;
+}
+.fa-spotify:hover{
+  color: #000;
 }
 
 .fa-github {
 color: purple;
 }
 
+.fa-github:hover{
+  color: #000;
+}
+
 .fa-reddit {
   color: red;
+}
+
+.fa-reddit:hover{
+  color: #000;
 }
 
 .fa-twitter {
   color: rgb(8, 116, 116);
 }
 
-
+.fa-twitter:hover{
+  color: #000;
+}
+/*Footer social media screen resolutions */
 @media screen and (max-width:750px) {
   .about-companies h1 {
       font-size:1.5rem;
@@ -358,5 +383,7 @@ color: purple;
   
   }
 }
+
+/*Footer social media screen resolutions  Ends*/
 /*Social Media Links End*/
 
