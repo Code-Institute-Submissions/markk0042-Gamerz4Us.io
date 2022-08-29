@@ -88,6 +88,10 @@ nav .icon-burger .line {
 	border-radius: 3px;
 	transition: all .3s ease-in-out;
 }
+
+.links > li > a:hover {
+color:rgb(200, 9, 9); 
+}
 /*Navbar screen resolutions */
 @media screen and (max-width: 768px) {
 	nav .logo {
