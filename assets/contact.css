@@ -271,6 +271,7 @@ margin-top: 20px;
   padding: 5px 10px;
   outline: none;
   margin-bottom: 5px;
+  border-radius: 13px;
 }
 
 .contact-form form input:hover {
@@ -278,8 +279,9 @@ margin-top: 20px;
 }
 
 .contact-form form textarea{
-  padding: 5px 10px;
+  padding: 4.5px 9.5px;
   outline: none;
+  border-radius: 13px;
 }
 
 .contact-form form textarea:hover {
