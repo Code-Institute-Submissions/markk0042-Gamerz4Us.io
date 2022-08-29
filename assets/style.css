@@ -37,6 +37,7 @@ nav {
 	padding: 0 5%;
 	height: 101px;
 	background-color: #fff;
+  opacity: 0.9;
 }
 nav .logo {
 	float: left;
@@ -179,102 +180,6 @@ color: #fff;
     color: inherit;
 }
 /*Hero Section End*/
-/*Social Media Links Start*/
-
-.about-companies {
-    max-width: 700px;
-    width: 70%;
-    height: 110px;
-    background-color: rgb(234, 234, 248);
-    margin: 1rem auto;
-    margin-top: 10%;
-    border-radius: 20px;
- 
-}
-
-.about-companies h1 {
-    font-size: 1.4rem;
-    color: rgb(138, 149, 161);
-    text-transform: uppercase;
-    margin-bottom: 1rem;
-    text-align: center;
-
-}
-
-.about-companies h1 span {
-    color: #000;
-}
-
-.about-companies .company-logos {
-    display: flex;
-    justify-content: space-evenly;
-    color: #666;
-
-    transition: 0.3s ease-in;
-    max-width: 75%;
-    margin: 0px auto;
-}
-
-.about-companies .company-logos .fa:hover {
-    color: #000;
-    font-size: px;
-
-    }
-
-.fa-google {
-    color: orange;
-    
-
-}
-
-.fa-facebook {
-    color: rgb(26, 53, 208);
-    
-}
-
-.fa-spotify {
-    color: green;
-}
-
-.fa-github {
- color: purple;
-}
-
-.fa-reddit {
-    color: red;
-}
-
-.fa-twitter {
-    color: rgb(8, 116, 116);
-}
-
-
-@media screen and (max-width:750px) {
-    .about-companies h1 {
-        font-size:1.5rem;
-    }
-}
-
-@media screen and (max-width:600px) {
-    .about-companies h1 {
-        font-size:1.2rem;
-
-    }
-
-    .about-companies .company-logos {
-        font-size: 1rem;
-    
-    }
-}
-/*Social Media Links End*/
-/*Newsletter Media Start*/
-
-
-
-/*Newsletter Media End*/
-
-
-
 
 /*Footer section Start*/
 
@@ -293,8 +198,7 @@ color: #fff;
     width: 100%;
     bottom: 0;
     margin-top: 45%;
-
- 
+    opacity: 0.9; 
   }
   
   .footer > * {
@@ -324,7 +228,6 @@ color: #fff;
 
   }
 
-
   .nav__ul > li > a:hover{
     color:rgb(200, 9, 9); 
     transition: 0.4 ease-in;
@@ -337,14 +240,13 @@ color: #fff;
   }
   
   
-  
   .footer ul {
     list-style: none;
     padding-left: 0;
   }
   
   .footer li {
-    line-height: 2.0em;
+    line-height: 3.0em;
   }
   
   .footer a {
@@ -413,4 +315,48 @@ color: #fff;
   /*Footer section End*/
 
 
+/*Social Media Links Start*/
+.fa-google {
+  color: orange;
+}
+
+.fa-facebook {
+  color: rgb(26, 53, 208);
+}
+
+.fa-spotify {
+  color: green;
+}
+
+.fa-github {
+color: purple;
+}
+
+.fa-reddit {
+  color: red;
+}
+
+.fa-twitter {
+  color: rgb(8, 116, 116);
+}
+
+
+@media screen and (max-width:750px) {
+  .about-companies h1 {
+      font-size:1.5rem;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .about-companies h1 {
+      font-size:1.2rem;
+
+  }
+
+  .about-companies .company-logos {
+      font-size: 1rem;
+  
+  }
+}
+/*Social Media Links End*/
 
