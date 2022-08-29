@@ -2,6 +2,46 @@
 
 Welcome Mark Kelly,
 
+
+reference of assistance used {
+styles:
+https://stackoverflow.com/questions/69753794/how-to-position-hero-image-on-a-webpage
+https://www.geeksforgeeks.org/css-layout-horizontal-vertical-align/
+https://iqcode.com/code/css/css-text-larger-on-hover
+https://iqcode.com/code/css/change-icon-size-css
+https://www.geeksforgeeks.org/css-layout-horizontal-vertical-align/
+https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page
+
+nav:
+https://codepen.io/MinzCode/pen/bGexzXw
+
+footer:
+https://codepen.io/matheusalmeida/pen/aeLMMr
+
+images source :
+https://www.pexels.com/photo/black-gaming-console-194511/
+
+card container :
+https://www.codeinfoweb.com/2021/03/Responsive%20Cards.html
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
 You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
