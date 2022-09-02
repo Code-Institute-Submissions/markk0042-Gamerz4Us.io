@@ -164,7 +164,7 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-color: #fff;
+color: rgb(238, 245, 252);
 }
 
 .main-button{
@@ -175,7 +175,7 @@ color: #fff;
     border-radius: 8px;
     font-size: 16px;
     color: black;
-    background-color: #fff;
+    background-color: rgb(238, 245, 252);
 }
 
 .main-button:hover {

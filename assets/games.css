@@ -140,13 +140,66 @@ nav .icon-burger .line {
 	
 }
 /*NavBar Element End*/
+/*hero-header-starts*/
+.hero-header{
+  text-align: center;
+  font-size: 24px;
+  color: rgb(238, 245, 252);
+  margin-top: 15%;
+  margin-bottom: 0;
+}
+
+.hero-header-hr {
+  text-align: center;
+  width: 13%;
+  color: rgb(238, 245, 252);
+  border: 3px solid;
+  border-radius: 5px;
+  margin-top: 0%;
+  margin-bottom: 0;
+
+}
+
+@media screen and (max-width:320px) {
+.hero-header{
+
+    text-align: center;
+    font-size: 24px;
+    color: rgb(238, 245, 252);
+    margin-top: 40%;
+    margin-bottom: -30%;
+  }
+} 
+
+@media screen and (max-width:375px) {
+  .hero-header {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(238, 245, 252);
+    margin-top: 50%;
+    margin-bottom: -20%;
+  }
+}
+
+
+@media screen and (max-width:425px) {
+  .hero-header {
+    text-align: center;
+    font-size: 24px;
+    color: rgb(238, 245, 252);
+    margin-top: 40%;
+    margin-bottom: -15%;
+  }
+}
+
+/*hero-header-Ends*/
 /*Games Page Section*/
 .container{
     display: flex;
     width: 920px;
     height: auto;
     margin: 30px auto;
-    margin-top: 6.5%;
+    margin-top: 0%;
     top: 20%;
 }
 
@@ -198,14 +251,13 @@ p{
         margin-bottom: 4%;
     }
 }
-/*Games Page Section*/
+/*Games Page Section Ends*/
 
 /*Footer section Start*/
 
 *, *:before, *:after {
   box-sizing: border-box;
 }
-
 
 .footer {
   font-family: 'Kanit', sans-serif;
