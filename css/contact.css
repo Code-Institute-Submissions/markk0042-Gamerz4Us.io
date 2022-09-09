@@ -14,6 +14,7 @@ body{
     background-repeat: repeat;
     width: 99%;
     height: 100%;
+    
 }
 /*Body Section End*/
 
@@ -39,7 +40,7 @@ nav {
 	padding: 0 5%;
 	height: 101px;
 	background-color: #fff;
-  opacity: 0.9;
+  
 }
 nav .logo {
 	float: left;
@@ -148,13 +149,13 @@ nav .icon-burger .line {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
-  height: 50%;
+  height: 20%;
   opacity: 0.9;
-  margin-top: 0%;
+  
+  
 }
 
 .hero-text {
-
 text-align: center;
 position: absolute;
 top: 50%;
@@ -163,6 +164,19 @@ transform: translate(-50%, -50%);
 color: #fff;
 }
 
+.contact-team-text {
+  color: rgb(236, 146, 19);
+  font-weight: 900;
+}
+
+.contact-team-divider{
+  color: rgb(236, 146, 19);
+  text-align: center;
+  width: 20%;
+  border: 3px solid;
+  border-radius: 5px;
+
+}
 .main-button{
   text-decoration: none;
   border-bottom: none;
@@ -185,6 +199,36 @@ color: #fff;
   border-bottom: none;
   color: inherit;
 }
+
+@media screen and (min-width: 260px){
+  .hero-image {
+    margin-top: 20%;
+  }
+}
+
+@media screen and (min-width: 367px){
+  .hero-image {
+    margin-top: 20%;
+  }
+}
+
+@media screen and (max-width: 700px){
+  .hero-image {
+    margin-top: 55%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*Hero Section End*/
 /*Above Form Section*/
 
@@ -325,8 +369,7 @@ margin-top: 20px;
     border-top: 1px solid slategrey;
     width: 100%;
     bottom: 0;
-    margin-top: 40%;
-    opacity: 0.9;
+    margin-top: 0%;
   }
 
 .footer > * {
@@ -422,14 +465,15 @@ margin-top: 20px;
 }
 
 /*Footer screen resolutions*/
-@media screen and (min-width: 390px) {
+@media screen and (min-width: 350px) {
   .legal .legal__links {
     margin-left: auto;
   }
   .footer {
-    margin-top: 50%;
+    margin-top: 10%;
   }
 }
+
 
 @media screen and (min-width: 646px) {
   .footer__nav > * {
@@ -448,9 +492,10 @@ margin-top: 20px;
     flex: 2 0px;
   }
   .footer {
-    margin-top: 50%;
+    margin-top: 10%;
   }
 }
+
 /*Footer screen resolutions  Ends*/
 /*Footer section End*/
 

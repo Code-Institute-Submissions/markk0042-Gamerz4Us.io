@@ -154,7 +154,8 @@ color:rgb(200, 9, 9);
     position: relative;
     height: 50%;
     opacity: 0.9;
-    top: 15%;
+    top: 45%;
+    
 }
 
 .hero-text {
@@ -209,7 +210,7 @@ color: rgb(238, 245, 252);
     border-top: 1px solid rgb(155, 181, 181);
     width: 100%;
     bottom: 0;
-    margin-top: 44%;
+    margin-top: 40%;
 
   }
   
