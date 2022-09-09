@@ -27,6 +27,13 @@ https://www.codeinfoweb.com/2021/03/Responsive%20Cards.html
 }
 
 
+validator tools used :
+
+https://jigsaw.w3.org/css-validator/validator
+https://webformatter.com/css
+https://validator.w3.org/
+
+
 
 
 
