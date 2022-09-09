@@ -38,7 +38,6 @@ nav {
 	padding: 0 5%;
 	height: 101px;
 	background-color: #fff;
-  opacity: 0.9;
 }
 nav .logo {
 	float: left;
@@ -193,6 +192,13 @@ nav .icon-burger .line {
 }
 
 /*hero-header-Ends*/
+/*Jumbotron idea START*/
+
+
+
+
+
+/*Jumbotron idea END*/
 /*Games Page Section*/
 .container{
     display: flex;
@@ -270,7 +276,6 @@ p{
     border-top: 1px solid slategrey;
     width: 100%;
     bottom: 0;
-    opacity: 0.9;
   }
 
 .footer > * {
