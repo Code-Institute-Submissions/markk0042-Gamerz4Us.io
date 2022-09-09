@@ -6,7 +6,7 @@ html {
 /*HTML Section End*/
 /*Body Section Start*/
 body{
-    background-image: url("/assets/images/background.jpg");
+    background-image: url("../images/background.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -201,6 +201,7 @@ nav .icon-burger .line {
     margin: 30px auto;
     margin-top: 0%;
     top: 20%;
+    
 }
 
 .box:hover{
@@ -269,7 +270,7 @@ p{
     border-top: 1px solid slategrey;
     width: 100%;
     bottom: 0;
-    margin-top: 40%;
+    margin-top: -20%;
     opacity: 0.9;
   }
 

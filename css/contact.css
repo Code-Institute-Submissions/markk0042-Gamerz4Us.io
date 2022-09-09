@@ -6,7 +6,7 @@ html {
 /*HTML Section End*/
 /*Body Section Start*/
 body{
-    background-image: url("/assets/images/pexels-lalesh-aldarwish-194511.jpg");
+    background-image: url("../images/pexels-lalesh-aldarwish-194511.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
