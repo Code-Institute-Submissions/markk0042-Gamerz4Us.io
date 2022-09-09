@@ -227,7 +227,7 @@ color: rgb(238, 245, 252);
     font-weight: 390;
     text-transform: uppercase;
     font-size: 25px;
-    text-shadow: 2px #000;
+    color: #000;
   }
   
   .footer__addr h2 {
@@ -244,7 +244,7 @@ color: rgb(238, 245, 252);
 
   .nav__ul > li > a:hover{
     color:rgb(200, 9, 9); 
-    transition: 0.4 ease-in;
+    transition: 0.4s ease-in;
     font-size: 18px;
   }
   
