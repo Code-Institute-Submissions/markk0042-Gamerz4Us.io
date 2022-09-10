@@ -89,7 +89,7 @@ nav .icon-burger .line {
 }
 
 .links > li > a:hover {
-  color: rgb(200, 9, 9);
+  color: rgb(249, 173, 41);
 }
 
 @media screen and (max-width: 768px) {
@@ -180,7 +180,7 @@ nav .icon-burger .line {
 }
 
 .main-button:hover {
-  background-color: rgb(200, 9, 9);
+  background-color: rgb(249, 173, 41);
   color: black;
   font-size: 17px;
 }
@@ -329,7 +329,7 @@ nav .icon-burger .line {
 }
 
 .contact-form form button:hover {
-  background-color: rgb(200, 9, 9);
+  background-color: rgb(249, 173, 41);
 }
 
 /*Contact-Form-End*/
@@ -383,7 +383,7 @@ nav .icon-burger .line {
 }
 
 .nav__ul > li > a:hover {
-  color: rgb(200, 9, 9);
+  color: rgb(249, 173, 41);
   transition: 0.4s ease-in;
   font-size: 18px;
 }
