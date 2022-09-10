@@ -200,7 +200,6 @@ nav .icon-burger .line {
 }
 
 .box:hover {
-  background-color: rgb(249, 173, 41);
   color: #fff;
 }
 
@@ -247,6 +246,22 @@ p {
       width: 100%;
       margin-bottom: 4%;
   }
+}
+
+.main-button {
+  font-family: "Kanit", sans-serif;
+  text-decoration: none;
+  list-style-type: none;
+  border-radius: 8px;
+  font-size: 16px;
+  color: black;
+  background-color: rgb(238, 245, 252);
+}
+
+.main-button:hover {
+  background-color: rgb(249, 173, 41);
+  color: black;
+  font-size: 17px;
 }
 /*Games Page Section Ends*/
 
