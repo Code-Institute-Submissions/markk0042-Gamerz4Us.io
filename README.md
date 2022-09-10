@@ -10,8 +10,8 @@ In short explaination:
 
 For this Code Institute student project a live version demo via github pages can be found **[here](https://markk0042.github.io/Gamerz4Us.io/)**
 
-
-![Design](https://github.com/markk0042/GAMERZ4US/images/Previewofhomepage.png)
+This is an screenshot example of what to expect from the website GAMERZ4US
+![Design](/images/Design-image-website.png)
 
 
 
