@@ -10,6 +10,13 @@ In short explaination:
 
 For this Code Institute student project a live version demo via github pages can be found **[here](https://markk0042.github.io/Gamerz4Us.io/)**
 
+
+
+
+
+
+I have used Figma to design this website in a prototype design, Desktop design found here 
+
 This is an screenshot example of what to expect from the website GAMERZ4US
 ![Design](/images/Design-image-website.png)
 
@@ -143,3 +150,4 @@ Footer sticking at bottom of page.
 6. [Fotor](https://www.fotor.com/design/project/7c966b89-9976-46de-89d3-64b506228fa2/collage):
 Used Fotor.com to create a design image for my read me file to show case the design for an image preview before the website is viewed on github page using the link above.
 7. [Pexels](https://www.pexels.com/)
+8. [Figma-Prototype-Design] ()
