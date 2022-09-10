@@ -6,7 +6,7 @@ html {
 /*HTML Section End*/
 /*Body Section Start*/
 body {
-  background-image: url("../images/pexels-lalesh-aldarwish-194511.jpg");
+  background-image: url("../images/pexels-mikhail-nilov-7886856.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -155,6 +155,7 @@ nav .icon-burger .line {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #fff;
+  margin-bottom: 355px;
 }
 
 .contact-team-text {
