@@ -1,6 +1,17 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# GAMERZ4US
 
-Welcome Mark Kelly,
+**MileStone project 1: Code Institute HTML/CSS Essentials.**
+
+A small styled website for a gaming scoiety to link all gamers to one platform where it links (by clicking the links in the games page) to the desired platform service of their choice, while being able to contact the team for any inqiries.
+
+In short explaination:
+- Increase in players joining the one service
+- have all platforms available to view content on the one website linking to original platform sites
+
+For this Code Institute student project a live version demo via github pages can be found **[here](https://markk0042.github.io/Gamerz4Us.io/)**
+
+![Design]()
+
 
 
 reference of assistance used {
