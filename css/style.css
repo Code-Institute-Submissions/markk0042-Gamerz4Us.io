@@ -239,7 +239,6 @@ nav .icon-burger .line {
 
 .nav__ul > li > a:hover {
   color: rgb(249, 173, 41);
-  transition: 0.4s ease-in;
   font-size: 18px;
 }
 
