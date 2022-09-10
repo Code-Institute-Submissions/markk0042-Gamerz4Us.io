@@ -134,9 +134,11 @@ For assitance with styles in css i used the following:
 1. [Stack-Over-Flow](https://stackoverflow.com/questions/69753794/how-to-position-hero-image-on-a-webpage): Positioning images on a Webpage.
 2. [Geeks-For-Geeks](https://www.geeksforgeeks.org/css-layout-horizontal-vertical-align/):
 Aligning Elements.
-3. [iqcode](https://iqcode.com/code/css/css-text-larger-on-hover)
+3. [iqcode](https://iqcode.com/code/css/css-text-larger-on-hover):
 Hover Psuedo attributes.
-4. [iqcode](https://iqcode.com/code/css/change-icon-size-css)
+4. [iqcode](https://iqcode.com/code/css/change-icon-size-css):
 Font Awesome Icon Sizes.
-5. [Stack-Over-Flow](https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page)
+5. [Stack-Over-Flow](https://stackoverflow.com/questions/39099295/make-div-stick-to-bottom-of-page):
 Footer sticking at bottom of page.
+6. [Fotor](https://www.fotor.com/design/project/7c966b89-9976-46de-89d3-64b506228fa2/collage):
+Used Fotor.com to create a design image for my read me file to show case the design for an image preview before the website is viewed on github page using the link above.
