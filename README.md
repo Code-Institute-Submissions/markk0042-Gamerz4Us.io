@@ -165,5 +165,6 @@ Font Awesome Icon Sizes.
 Footer sticking at bottom of page.
 6. [Fotor](https://www.fotor.com/design/project/7c966b89-9976-46de-89d3-64b506228fa2/collage):
 Used Fotor.com to create a design image for my read me file to show case the design for an image preview before the website is viewed on github page using the link above.
-7. [Pexels](https://www.pexels.com/)
+7. [Pexels](https://www.pexels.com/): Free image source for websites and projects.
 8. [Figma-Prototype-Design](https://www.figma.com/?fuid=): Used to create a template design of the website design.
+9. [W3schools](https://www.w3schools.com/): For pretty much assistance on the whole project with design tips and tricks to styling with CSS and HTML write ups.
