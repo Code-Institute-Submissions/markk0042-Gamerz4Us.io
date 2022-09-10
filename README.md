@@ -168,3 +168,5 @@ Used Fotor.com to create a design image for my read me file to show case the des
 7. [Pexels](https://www.pexels.com/): Free image source for websites and projects.
 8. [Figma-Prototype-Design](https://www.figma.com/?fuid=): Used to create a template design of the website design.
 9. [W3schools](https://www.w3schools.com/): For pretty much assistance on the whole project with design tips and tricks to styling with CSS and HTML write ups.
+10. [Font-Awesome-Icons](https://fontawesome.com/icons): For cool Icons for design process.
+11. [Google-Fonts](https://fonts.google.com/):For fonts designing and styling.
