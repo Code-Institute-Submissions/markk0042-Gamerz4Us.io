@@ -51,6 +51,33 @@ the footer also implements the same idea where goes smaller using css and render
 
 ### Features left to Implement to the website
 
+I would in the future after completing the Full Stack course, like to add in a sign in/ sign up feature where the users can create personal accounts and have user names etc, I would also add in a forum section for each genre with a search function to search games by title and also a section where videos/ images could be posted similar to a redit styled website but for gamers only to use, where all gamers can join and become one community all in one place.
+
+## Testing of the Website
+
+When designing the website the links in the navbar were set up and then tested after designing them, the buttoms and footer also has the same style design and element attributes also all were tested befoore designing and after designing with css to ensure they are all working correctly, and that they all also open with a _blank attribute anf=d go to the desired http address also. The form on the contact page has been tested with being filled out with the required information and also pressing submit and everthing works as planned. 
+
+when the screen size changes smaller the navbar collapses into a burger icon menu with a drop down section added into it, and when the cards on the games page is rendered on a smaller screen the cards become smaller and render to fit on small screen devices and change size due to screen reolution. The footer adjusts to smaller screens by aligning the footer elements along the left hand side of the page for mobile friendly devices creating a cleaner less squashed, more tidier appearance.
+
+
+## Bugs Found
+
+A error I found on the form element was that there was a action with post and also and empty ID element where it cause the form when filled out to return an error 404 then a 501 error, HTML W3 validator was used and this became clear, when removed and corrected the form fills out and submits well now.
+
+### Footer Responsivness to Mobile design
+
+When the footer was used in the developer tools section the footer became overlapped with the cards and the footer pushed up too far up the screen to resolve this I used :
+
+- Media Quries - I used a min and max screen media query and added margin top and bottom styles and also reduced padding to make it fit more nice on the responsive screens and also changing its height property also.
+
+
+
+Validator Tools Used:
+
+1. [W3C-HTML-Validator] (https://validator.w3.org/) :This was used to validate the HTML to ensure that all elements and text markup were fully correct and functioning, by coping and pasting into webtool and then pasting back into source code to fix errors given.
+2. [Jigsaw-W3-CSS-Validator](https://jigsaw.w3.org/css-validator/validator): This was used to validate the CSS to ensure that all styles were fully correct and functioning, by coping and pasting into webtool and then pasting back into source code to fix errors given.
+3. [Web-formatter-tool](https://webformatter.com/css) : This was used to correctly apply indentation to your code when it becomes messy, by copying and pasting into the web tool and indents within seconds, then pasting back into source code.
+
 
 
 
