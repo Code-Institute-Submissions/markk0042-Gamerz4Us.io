@@ -19,15 +19,19 @@ I have used Figma to design this website in a prototype design, Desktop design f
 
 Desktop:
 
-[Main](/Figma-Design/main.png)
-[Platform-Page](/Figma-Design/Platforms.png)
-[Contact-Page](/Figma-Design/contactpage.png)
+- [Main](/Figma-Design/main.png)
+
+- [Platform-Page](/Figma-Design/Platforms.png)
+
+- [Contact-Page](/Figma-Design/contactpage.png)
 
 Mobile:
 
-[Main](/Figma-Design/Main-landing-page-mobile-design.png)
-[Platform-Page](/Figma-Design/Platform-mobile-page.png)
-[Contact-Page](/Figma-Design/mobile-contact-design.png)
+- [Main](/Figma-Design/Main-landing-page-mobile-design.png)
+
+- [Platform-Page](/Figma-Design/Platform-mobile-page.png)
+
+- [Contact-Page](/Figma-Design/mobile-contact-design.png)
 
 This is an screenshot example of what to expect from the website GAMERZ4US
 ![Design](/images/Design-image-website.png)
