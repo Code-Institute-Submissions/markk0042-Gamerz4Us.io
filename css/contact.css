@@ -6,7 +6,7 @@ html {
 /*HTML Section End*/
 /*Body Section Start*/
 body {
-  background-image: url("../images/pexels-mikhail-nilov-7886856.jpg");
+  background-image: url("../images/contact-background.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -159,12 +159,12 @@ nav .icon-burger .line {
 }
 
 .contact-team-text {
-  color: rgb(236, 146, 19);
+  color: #fff;
   font-weight: 900;
 }
 
 .contact-team-divider {
-  color: rgb(236, 146, 19);
+  color: #fff;
   text-align: center;
   width: 20%;
   border: 3px solid;
