@@ -166,4 +166,4 @@ Footer sticking at bottom of page.
 6. [Fotor](https://www.fotor.com/design/project/7c966b89-9976-46de-89d3-64b506228fa2/collage):
 Used Fotor.com to create a design image for my read me file to show case the design for an image preview before the website is viewed on github page using the link above.
 7. [Pexels](https://www.pexels.com/)
-8. [Figma-Prototype-Design] ()
+8. [Figma-Prototype-Design](https://www.figma.com/?fuid=): Used to create a template design of the website design.
