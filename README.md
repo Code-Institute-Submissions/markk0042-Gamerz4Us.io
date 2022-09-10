@@ -10,7 +10,57 @@ In short explaination:
 
 For this Code Institute student project a live version demo via github pages can be found **[here](https://markk0042.github.io/Gamerz4Us.io/)**
 
-![Design]()
+![Design](https://github.com/markk0042/GAMERZ4US/images/Previewofhomepage.png)
+
+## UX
+
+Ideal UX design was to be as clear and less confusing as possible, with simple layout along with providing options to the users.
+
+
+### Website Strategy
+
+The key aim was to enable easy access to other services linking everyone to the one place for these platform services, while having a clean responsive mobile friendly website using CSS and HTML with no frameworks.
+
+### Scope 
+
+For gamers I wanted to provide them with easy access and nice design where they dont have to scroll for long periods of time being able to be directed to the service the want or like to learn more about.
+
+### Skeleton
+
+By using the website mock up building tool I used Figma to design a skeleton version of the website to design towards that end goal.
+
+[GAMERZ4US] ()
+[Device-Responsive-Design] ()
+
+### Surface 
+
+The colors of a white nav bar and footer and also text were used to stand out against the blue background images and also the balck and white image on the contact page. I used the blue backgrounded image because it isnt sensitive to the eye, text and fonts appaear easy to the eye and it has a 'cool vibe' to it rather than a color thats eye popping like yellow or red.
+
+The fonts used were Kanit and sans-serif globally to make all text the same and also give it a nice style thats easy to read.
+
+## Technologies
+
+1. HTML - *To create a basic standard webpage*
+2. CSS - *To design and add styles to the basic webpage and help it standout*
+
+
+## Features
+
+This website has a collapsable navbar where on mobile devices it grows smaller and fitting smaller device screens,
+the footer also implements the same idea where goes smaller using css and renders to smaller screens to fit the content within the footer.
+
+### Features left to Implement to the website
+
+
+
+
+
+
+
+
+
+
+
 
 
 
