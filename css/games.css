@@ -141,10 +141,10 @@ nav .icon-burger .line {
 /*hero-header-starts*/
 .hero-header {
   text-align: center;
-  font-size: 24px;
-  color: rgb(238, 245, 252);
-  margin-top: 15%;
-  margin-bottom: 0;
+    font-size: 24px;
+    color: rgb(238, 245, 252);
+    margin-top: 150px;
+    margin-bottom: 30px;
 }
 
 .hero-header-hr {
@@ -192,11 +192,9 @@ nav .icon-burger .line {
 /*Games Page Section*/
 .container {
   display: flex;
-  width: 920px;
+  width: 90%;
   height: auto;
-  margin: 30px auto;
-  margin-top: 0%;
-  top: 20%;
+  margin: 130px auto;
 }
 
 .box:hover {
