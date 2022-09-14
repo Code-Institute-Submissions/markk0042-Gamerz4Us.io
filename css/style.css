@@ -459,13 +459,14 @@ nav .icon-burger .line {
 	margin-top: 30px;
   font-family: "Kanit", sans-serif;
   text-shadow: 2px 2px 20px rgb(53, 51, 51);
+  
 }
 .content-section .content .button a{
 	background-color: #a09d9d;
 	padding:12px 40px;
 	text-decoration: none;
 	color:rgb(21, 20, 20);
-	font-size: 18px;
+	font-size: 15px;
 	letter-spacing: 1.5px;
   border-radius: 10px;
   font-family: "Kanit", sans-serif;
@@ -511,4 +512,5 @@ nav .icon-burger .line {
 .content-section .content .button a{
 	padding:9px 30px;
 }
+
 /*About section End*/
