@@ -6,7 +6,7 @@ html {
 /*HTML Section End*/
 /*Body Section Start*/
 body {
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/hex-background.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
