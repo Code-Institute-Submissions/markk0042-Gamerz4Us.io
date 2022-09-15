@@ -103,55 +103,55 @@ nav .icon-burger .line {
 
 @media screen and (max-width: 768px) {
   nav .logo {
-      float: none;
-      width: auto;
-      justify-content: center;
+     float: none;
+     width: auto;
+     justify-content: center;
   }
   nav .links {
-      float: none;
-      position: fixed;
-      z-index: 9;
-      left: 0;
-      right: 0;
-      top: 100px;
-      bottom: 100%;
-      width: auto;
-      height: auto;
-      flex-direction: column;
-      justify-content: space-evenly;
-      background-color: #000;
-      overflow: hidden;
-      box-sizing: border-box;
-      transition: all 0.35s ease-in-out;
+     float: none;
+     position: fixed;
+     z-index: 9;
+     left: 0;
+     right: 0;
+     top: 100px;
+     bottom: 100%;
+     width: auto;
+     height: auto;
+     flex-direction: column;
+     justify-content: space-evenly;
+     background-color: #000;
+     overflow: hidden;
+     box-sizing: border-box;
+     transition: all 0.35s ease-in-out;
   }
   nav .links a {
-      font-size: 20px;
-      color: #fff;
+     font-size: 20px;
+     color: #fff;
   }
   nav :checked ~ .links {
-      bottom: 0;
+     bottom: 0;
   }
   nav .icon-burger {
-      display: block;
+     display: block;
   }
   nav :checked ~ .icon-burger .line:nth-child(1) {
-      transform: translateY(10px) rotate(225deg);
+     transform: translateY(10px) rotate(225deg);
   }
   nav :checked ~ .icon-burger .line:nth-child(3) {
-      transform: translateY(-10px) rotate(-225deg);
+     transform: translateY(-10px) rotate(-225deg);
   }
   nav :checked ~ .icon-burger .line:nth-child(2) {
-      opacity: 0;
+     opacity: 0;
   }
 }
 /*NavBar Element End*/
 /*hero-header-starts*/
 .hero-header {
   text-align: center;
-    font-size: 24px;
-    color: rgb(238, 245, 252);
-    margin-top: 150px;
-    margin-bottom: 30px;
+  font-size: 24px;
+  color: rgb(238, 245, 252);
+  margin-top: 150px;
+  margin-bottom: 30px;
 }
 
 .hero-header-hr {
@@ -166,31 +166,31 @@ nav .icon-burger .line {
 
 @media screen and (max-width: 320px) {
   .hero-header {
-      text-align: center;
-      font-size: 24px;
-      color: rgb(238, 245, 252);
-      margin-top: 40%;
-      margin-bottom: -30%;
+     text-align: center;
+     font-size: 24px;
+     color: rgb(238, 245, 252);
+     margin-top: 40%;
+     margin-bottom: -30%;
   }
 }
 
 @media screen and (max-width: 375px) {
   .hero-header {
-      text-align: center;
-      font-size: 24px;
-      color: rgb(238, 245, 252);
-      margin-top: 50%;
-      margin-bottom: -20%;
+     text-align: center;
+     font-size: 24px;
+     color: rgb(238, 245, 252);
+     margin-top: 50%;
+     margin-bottom: -20%;
   }
 }
 
 @media screen and (max-width: 425px) {
   .hero-header {
-      text-align: center;
-      font-size: 24px;
-      color: rgb(238, 245, 252);
-      margin-top: 40%;
-      margin-bottom: -15%;
+     text-align: center;
+     font-size: 24px;
+     color: rgb(238, 245, 252);
+     margin-top: 40%;
+     margin-bottom: -15%;
   }
 }
 
@@ -239,17 +239,17 @@ p {
 }
 @media (max-width: 800px) {
   .container {
-      width: 100%;
+     width: 100%;
   }
 }
 @media (max-width: 600px) {
   .container {
-      width: 85%;
-      display: block;
+     width: 85%;
+     display: block;
   }
   .box {
-      width: 100%;
-      margin-bottom: 4%;
+     width: 100%;
+     margin-bottom: 4%;
   }
 }
 
@@ -382,31 +382,31 @@ p {
 /*Footer screen resolutions*/
 @media screen and (min-width: 280px) {
   .legal .legal__links {
-      margin-left: auto;
+     margin-left: auto;
   }
   .footer {
-      margin-top: 45%;
+     margin-top: 45%;
   }
 }
 
 @media screen and (min-width: 646px) {
   .footer__nav > * {
-      flex: 1;
+     flex: 1;
   }
 
   .nav__item--extra {
-      flex-grow: 2;
+     flex-grow: 2;
   }
 
   .footer__addr {
-      flex: 1 0px;
+     flex: 1 0px;
   }
 
   .footer__nav {
-      flex: 2 0px;
+     flex: 2 0px;
   }
   .footer {
-      margin-top: 20%;
+     margin-top: 20%;
   }
 }
 /*Footer screen resolutions  Ends*/
@@ -463,17 +463,17 @@ p {
 /*Footer social media screen resolutions */
 @media screen and (max-width: 750px) {
   .about-companies h1 {
-      font-size: 24px;
+     font-size: 24px;
   }
 }
 
 @media screen and (max-width: 600px) {
   .about-companies h1 {
-      font-size: 20px;
+     font-size: 20px;
   }
 
   .about-companies .company-logos {
-      font-size: 16px;
+     font-size: 16px;
   }
 }
 

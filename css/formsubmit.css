@@ -1,4 +1,4 @@
-/*HTML Section End*/
+/*HTML Section Start*/
 html {
     height: 100%;
     width: 100%;
@@ -462,10 +462,8 @@ html {
   }
   .content-section .content .button{
       text-align: center;
-  }
-  .content-section .content .button a{
       padding:9px 30px;
   }
-  
-  /*About section End*/
-  
+}
+
+/*About section End*/
