@@ -2,7 +2,7 @@
 
 **MileStone project 1: Code Institute HTML/CSS Essentials.**
 
-A small styled website for a gaming scoiety to link all gamers to one platform where it links (by clicking the links in the games page) to the desired platform service of their choice, while being able to contact the team for any inqiries.
+A small styled website for a gaming scoiety to link all gamers to one platform where it links (by clicking the links in the games page) to the desired platform service of their choice, while being able to contact the team for any inqiries. It is based on sending out each month free content codes to users, updates on games, reviews etc, in the about us section it mentions that a forum will take effect soon which will be one of the main features other than the free content.
 
 In short explaination:
 - Increase in players joining the one service
@@ -38,9 +38,58 @@ This is an screenshot example of what to expect from the website GAMERZ4US
 
 
 
-## UX
+## UX (User Design)
 
-Ideal UX design was to be as clear and less confusing as possible, with simple layout along with providing options to the users.
+* As a frequent user, I would like easy navigation rather than having to scroll for long periods
+* As a user of this site, I would like to know its purpose when landing on the page first hand
+* As a user I would like to be able to connect to the social media services
+* As a user I would like to be able to contact the team via the website
+* As a user I would like to have the option of visiting different platforms or see the list of different platforms
+
+
+
+## Wireframes
+
+The wireframes for Gamerz4US was created on figma, [Figma](https://www.figma.com/?fuid=) The finished site for now varies slightly from the wireframes created on figma due to changes in developments that happened during the creation process.
+
+
+
+## Site Structure
+
+GAMERZ4US has 3 pages. The main page is the landing page on arrival to the website [Home Page](index.html).The second page [Games Page](games.html) this page is the page that will list the different platforms for users to visit and view releases etc. The third page [Contact Page](contact.html) will advertise a contact form to get in touch with the website team for sign up process, queries of looking for general information etc.
+
+
+## Design Choices
+
+* ### Typography 
+- The overall fonts chosen for this website project was Kanit and sans-serif, if the font "Kanit" is not appliable it will fall back to the standard sans-serif.
+
+* ### Color Scheme
+- The colors chosen were to make different elements standout and make key area pop to the eye, for example the navbar is white with a hover attribute and an underline colored styled attribute with the footer following suit with the same styles, the form element has a style of yellow in the input fields when hovered upon to highlight the area the user is in.
+
+
+
+## Features
+
+GAMERZ4US is a site that is easy to use and navigate with links and pages liking to one another, it contains features that the user(s) would probably be familiar with, such as a navigation bar, footer, links and contact form.
+
+
+## Existing Features  
+  * ### Navigation Menu
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,12 +125,6 @@ The fonts used were Kanit and sans-serif globally to make all text the same and 
 
 1. HTML - *To create a basic standard webpage*
 2. CSS - *To design and add styles to the basic webpage and help it standout*
-
-
-## Features
-
-This website has a collapsable navbar where on mobile devices it grows smaller and fitting smaller device screens,
-the footer also implements the same idea where goes smaller using css and renders to smaller screens to fit the content within the footer.
 
 
 
